@@ -188,7 +188,7 @@
 							"// hehe there? console log here, postman",
 							"// changed now",
 							"",
-							"// hello hhellohjhjhhjhjhjhjhjhjjhjhjjhj hjhjhhjhjh"
+							"// hello hhellohjhjhhjhjhjhjhjhjjhjhjjhj hjhjhhjhjhhjhj"
 						],
 						"type": "text/javascript"
 					}
@@ -245,12 +245,12 @@
 	],
 	"variable": [
 		{
-			"id": "c581192a-54ca-4ef9-8190-3c51bda36802",
+			"id": "10ec1b15-4127-4ace-ab51-cf853279d89c",
 			"key": "token",
 			"value": ""
 		},
 		{
-			"id": "23258dfd-5b62-4077-8cbb-ccb6679d599d",
+			"id": "99c4d3ee-87a7-4a2f-b927-747644a624db",
 			"key": "baseUrl",
 			"value": "https://postman-integration-testing.glitch.me/"
 		}
